@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Shenoy</h1>
-<h3 align="center">Computer Science student at SDM Institute of Technology, Ujire.</h3>
+<h3 align="center">Computer Science graduate from SDM Institute of Technology, Ujire.</h3>
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/fcf9f1_183add7b26954250a69bc0ac13f8ca50~mv2.gif/v1/fill/w_1600,h_900,al_c,q_90/file.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohnshenoy&label=Profile%20views&color=0e75b6&style=flat" alt="rohnshenoy" /> </p>
